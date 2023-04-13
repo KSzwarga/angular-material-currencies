@@ -1,0 +1,25 @@
+.mat-table {
+  background-color: transparent !important;
+}
+
+td {
+  border: solid 1px grey;
+}
+.mdc-data-table__row:last-child .mdc-data-table__cell {
+  border: solid 1px grey;
+}
+
+th {
+  border: solid 1px darkgoldenrod;
+  font-size: large;
+}
+.container2 {
+  display: flex;
+  padding-left: 3rem;
+}
+#divChart {
+  display: flex;
+  width: 40%;
+  height: 400px;
+  padding-left: 10%;
+}

@@ -1,0 +1,15 @@
+.table {
+  padding-left: 5%;
+  padding-right: 50%;
+  width: 40%;
+}
+td {
+  border: solid 1px grey;
+}
+.mdc-data-table__row:last-child .mdc-data-table__cell {
+  border: solid 1px grey;
+}
+th {
+  border: solid 1px darkgoldenrod;
+  font-size: large;
+}
